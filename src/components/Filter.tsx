@@ -36,7 +36,7 @@ export function Filter({ title, rating, genre, onFilterChange }: FilterProps) {
         <option value="Adventure">Adventure</option>
         <option value="Animation">Animation</option>
         <option value="Comedy">Comedy</option>
-        <option value="Drama">Drama</option
+        <option value="Drama">Drama</option>
         <option value="Fantasy">Faantasy</option>
         <option value="Horror">Horror</option>
         <option value="Sci-Fi">Sci-Fi</option>
